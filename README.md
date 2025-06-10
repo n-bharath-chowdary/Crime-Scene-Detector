@@ -20,7 +20,7 @@ Streamlit
 
 ---
 ## 🏗️ Folder Structure
-
+```bash
 📁 dataset/
     ├── Arrest/
     ├── Abuse/
@@ -36,7 +36,7 @@ README.md
 train.py
 inference.py
 requirements.txt
-
+```
 ---
 ## Download the model:
 
